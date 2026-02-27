@@ -5,7 +5,7 @@
 ![Routeur](https://img.shields.io/badge/Routeur-pfSense_2.7-red)
 ![Licence](https://img.shields.io/badge/Licence-Open_Source-blue)
 
-Ce dépôt contient l'architecture, la configuration et les codes de déploiement du projet **MeteoNet HCI**. Il s'agit d'une refonte complète d'une infrastructure réseau contrainte (matériel legacy, forte latence, CGNAT) vers un système Hyperconvergé (HCI) sécurisé, segmenté et hautement observable.
+Ce répo contient l'architecture, la configuration et les codes de déploiement du projet **MeteoNet**. Il s'agit d'une refonte complète d'une infrastructure réseau contrainte (matériel legacy, forte latence, CGNAT) vers un système Hyperconvergé (HCI) sécurisé, segmenté et hautement observable.
 
 ## 📑 Sommaire
 - [Contexte & Problématique](#-contexte--problématique)
