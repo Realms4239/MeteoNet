@@ -1,4 +1,4 @@
-# 🌩️ MeteoNet HCI : Infrastructure Réseau Hyperconvergée & NAC
+# 🌩️ MeteoNet HCI : Infrastructure Réseau Hyperconvergée
 
 ![Statut](https://img.shields.io/badge/Statut-En_Production-success)
 ![Hyperviseur](https://img.shields.io/badge/Hyperviseur-Proxmox_VE_8-orange)
@@ -41,7 +41,7 @@ Le système est construit sur **5 Piliers d'Ingénierie** :
 
 ## 🗺️ Topologie et Plan d'Adressage
 
-![Schéma de Topologie](./docs/images/topologie.png) *(Note: Ajouter votre image dans le dossier docs)*
+![Schéma de Topologie](./docs/images/topologie.png) 
 
 | Interface / Zone | VLAN | Sous-réseau (CIDR) | Sécurité Physique |
 | :--- | :--- | :--- | :--- |
